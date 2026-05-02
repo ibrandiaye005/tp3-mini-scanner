@@ -1,0 +1,17 @@
+=== git log ===
+969c2fb (HEAD -> master) Ajout dossier reports avec premier rapport de scan
+90f1a56 Ajout README.md avec instructions d'usage
+04b642c Initial commit : ajout script tp3_kali_scanner.py
+
+=== git show ===
+969c2fb Ibrahima Sat May 2 13:52:46 2026 -0500 Ajout dossier reports avec premier rapport de scan
+reports/top100_20260502_135039.txt
+reports/top100_20260502_135216.txt
+
+=== git status ===
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	GIT_PROOFS.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
